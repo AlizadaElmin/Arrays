@@ -1,0 +1,15 @@
+/Users/elmin/Projects/ThirdTask/ThirdTask/bin/Debug/net7.0/ThirdTask
+/Users/elmin/Projects/ThirdTask/ThirdTask/bin/Debug/net7.0/ThirdTask.deps.json
+/Users/elmin/Projects/ThirdTask/ThirdTask/bin/Debug/net7.0/ThirdTask.runtimeconfig.json
+/Users/elmin/Projects/ThirdTask/ThirdTask/bin/Debug/net7.0/ThirdTask.dll
+/Users/elmin/Projects/ThirdTask/ThirdTask/bin/Debug/net7.0/ThirdTask.pdb
+/Users/elmin/Projects/ThirdTask/ThirdTask/obj/Debug/net7.0/ThirdTask.csproj.AssemblyReference.cache
+/Users/elmin/Projects/ThirdTask/ThirdTask/obj/Debug/net7.0/ThirdTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/Projects/ThirdTask/ThirdTask/obj/Debug/net7.0/ThirdTask.AssemblyInfoInputs.cache
+/Users/elmin/Projects/ThirdTask/ThirdTask/obj/Debug/net7.0/ThirdTask.AssemblyInfo.cs
+/Users/elmin/Projects/ThirdTask/ThirdTask/obj/Debug/net7.0/ThirdTask.csproj.CoreCompileInputs.cache
+/Users/elmin/Projects/ThirdTask/ThirdTask/obj/Debug/net7.0/ThirdTask.dll
+/Users/elmin/Projects/ThirdTask/ThirdTask/obj/Debug/net7.0/refint/ThirdTask.dll
+/Users/elmin/Projects/ThirdTask/ThirdTask/obj/Debug/net7.0/ThirdTask.pdb
+/Users/elmin/Projects/ThirdTask/ThirdTask/obj/Debug/net7.0/ThirdTask.genruntimeconfig.cache
+/Users/elmin/Projects/ThirdTask/ThirdTask/obj/Debug/net7.0/ref/ThirdTask.dll

@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{45EBE695-1BE8-45C2-AA58-399943DE6697}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FirstHomeTask/Program.cs">
+    <Files>
+      <File FileName="FirstHomeTask/Program.cs" Line="23" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FirstHomeTask" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FirstHomeTask PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

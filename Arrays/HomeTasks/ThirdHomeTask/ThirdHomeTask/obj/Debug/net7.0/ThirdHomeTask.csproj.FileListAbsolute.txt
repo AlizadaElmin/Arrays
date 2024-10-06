@@ -1,0 +1,15 @@
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/bin/Debug/net7.0/ThirdHomeTask
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/bin/Debug/net7.0/ThirdHomeTask.deps.json
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/bin/Debug/net7.0/ThirdHomeTask.runtimeconfig.json
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/bin/Debug/net7.0/ThirdHomeTask.dll
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/bin/Debug/net7.0/ThirdHomeTask.pdb
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/obj/Debug/net7.0/ThirdHomeTask.csproj.AssemblyReference.cache
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/obj/Debug/net7.0/ThirdHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/obj/Debug/net7.0/ThirdHomeTask.AssemblyInfoInputs.cache
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/obj/Debug/net7.0/ThirdHomeTask.AssemblyInfo.cs
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/obj/Debug/net7.0/ThirdHomeTask.csproj.CoreCompileInputs.cache
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/obj/Debug/net7.0/ThirdHomeTask.dll
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/obj/Debug/net7.0/refint/ThirdHomeTask.dll
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/obj/Debug/net7.0/ThirdHomeTask.pdb
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/obj/Debug/net7.0/ThirdHomeTask.genruntimeconfig.cache
+/Users/elmin/Projects/ThirdHomeTask/ThirdHomeTask/obj/Debug/net7.0/ref/ThirdHomeTask.dll

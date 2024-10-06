@@ -1,0 +1,15 @@
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/bin/Debug/net7.0/FirstHomeTask
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/bin/Debug/net7.0/FirstHomeTask.deps.json
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/bin/Debug/net7.0/FirstHomeTask.runtimeconfig.json
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/bin/Debug/net7.0/FirstHomeTask.dll
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/bin/Debug/net7.0/FirstHomeTask.pdb
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/obj/Debug/net7.0/FirstHomeTask.csproj.AssemblyReference.cache
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/obj/Debug/net7.0/FirstHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/obj/Debug/net7.0/FirstHomeTask.AssemblyInfoInputs.cache
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/obj/Debug/net7.0/FirstHomeTask.AssemblyInfo.cs
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/obj/Debug/net7.0/FirstHomeTask.csproj.CoreCompileInputs.cache
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/obj/Debug/net7.0/FirstHomeTask.dll
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/obj/Debug/net7.0/refint/FirstHomeTask.dll
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/obj/Debug/net7.0/FirstHomeTask.pdb
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/obj/Debug/net7.0/FirstHomeTask.genruntimeconfig.cache
+/Users/elmin/Projects/FirstHomeTask/FirstHomeTask/obj/Debug/net7.0/ref/FirstHomeTask.dll

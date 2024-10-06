@@ -1,0 +1,15 @@
+/Users/elmin/Projects/FirstTask/FirstTask/bin/Debug/net7.0/FirstTask
+/Users/elmin/Projects/FirstTask/FirstTask/bin/Debug/net7.0/FirstTask.deps.json
+/Users/elmin/Projects/FirstTask/FirstTask/bin/Debug/net7.0/FirstTask.runtimeconfig.json
+/Users/elmin/Projects/FirstTask/FirstTask/bin/Debug/net7.0/FirstTask.dll
+/Users/elmin/Projects/FirstTask/FirstTask/bin/Debug/net7.0/FirstTask.pdb
+/Users/elmin/Projects/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.csproj.AssemblyReference.cache
+/Users/elmin/Projects/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/Projects/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.AssemblyInfoInputs.cache
+/Users/elmin/Projects/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.AssemblyInfo.cs
+/Users/elmin/Projects/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.csproj.CoreCompileInputs.cache
+/Users/elmin/Projects/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.dll
+/Users/elmin/Projects/FirstTask/FirstTask/obj/Debug/net7.0/refint/FirstTask.dll
+/Users/elmin/Projects/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.pdb
+/Users/elmin/Projects/FirstTask/FirstTask/obj/Debug/net7.0/FirstTask.genruntimeconfig.cache
+/Users/elmin/Projects/FirstTask/FirstTask/obj/Debug/net7.0/ref/FirstTask.dll

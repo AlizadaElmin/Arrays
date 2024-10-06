@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B13FEC32-3980-4492-93B5-8FC3E077A4DF}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThirdHomeTask/Program.cs">
+    <Files>
+      <File FileName="ThirdHomeTask/Program.cs" Line="6" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ThirdHomeTask PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

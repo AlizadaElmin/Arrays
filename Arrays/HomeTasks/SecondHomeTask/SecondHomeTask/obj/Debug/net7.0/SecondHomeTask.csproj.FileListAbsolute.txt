@@ -1,0 +1,15 @@
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/bin/Debug/net7.0/SecondHomeTask
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/bin/Debug/net7.0/SecondHomeTask.deps.json
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/bin/Debug/net7.0/SecondHomeTask.runtimeconfig.json
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/bin/Debug/net7.0/SecondHomeTask.dll
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/bin/Debug/net7.0/SecondHomeTask.pdb
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/obj/Debug/net7.0/SecondHomeTask.csproj.AssemblyReference.cache
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/obj/Debug/net7.0/SecondHomeTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/obj/Debug/net7.0/SecondHomeTask.AssemblyInfoInputs.cache
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/obj/Debug/net7.0/SecondHomeTask.AssemblyInfo.cs
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/obj/Debug/net7.0/SecondHomeTask.csproj.CoreCompileInputs.cache
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/obj/Debug/net7.0/SecondHomeTask.dll
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/obj/Debug/net7.0/refint/SecondHomeTask.dll
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/obj/Debug/net7.0/SecondHomeTask.pdb
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/obj/Debug/net7.0/SecondHomeTask.genruntimeconfig.cache
+/Users/elmin/Projects/SecondHomeTask/SecondHomeTask/obj/Debug/net7.0/ref/SecondHomeTask.dll
